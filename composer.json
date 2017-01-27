@@ -8,6 +8,9 @@
         "illuminate/support": "5.3.*|5.4.*",
         "illuminate/console": "5.3.*|5.4.*"
     },
+    "suggest":{
+      "illuminate/routing": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*",
+    },
     "license": "MIT",
     "authors": [
         {
