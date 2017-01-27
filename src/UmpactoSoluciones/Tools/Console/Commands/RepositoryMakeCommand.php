@@ -1,6 +1,6 @@
 <?php
 
-namespace UmpactoSoluciones\Console\Commands;
+namespace UmpactoSoluciones\Tools\Console\Commands;
 
 use Illuminate\Support\Str;
 use InvalidArgumentException;
