@@ -24,7 +24,7 @@
     "prefer-stable": true,
     "autoload": {
      "psr-4": {
-         "UmpactoSoluciones\\": "src/"
+         "UmpactoSoluciones\\": "src/UmpactoSoluciones"
      }
     }
 }
