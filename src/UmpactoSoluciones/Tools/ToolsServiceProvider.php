@@ -1,7 +1,7 @@
 <?php
-namespace Umpacto\Tools;
+namespace UmpactoSoluciones\Tools;
 
-use Umpacto\Console\Commands\RepositoryMakeCommand;
+use UmpactoSoluciones\Tools\Console\Commands\RepositoryMakeCommand;
 use Illuminate\Support\ServiceProvider;
 
 class ToolsServiceProvider extends ServiceProvider
